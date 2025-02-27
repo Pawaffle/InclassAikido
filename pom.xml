@@ -24,7 +24,7 @@
     </dependencies>
 
     <build>
-        <finalName>LectureTest</finalName>
+        <finalName>Aikido</finalName>
         <plugins>
             <!-- JaCoCo Plugin -->
             <plugin>
